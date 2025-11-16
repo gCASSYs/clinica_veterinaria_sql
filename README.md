@@ -43,7 +43,7 @@ clinica_veterinaria_sql/
 
 ## 🔗 Repositório público
 
-https://github.com/SEU-USUARIO/clinica_veterinaria_sql
+https://github.com/gCASSYs/clinica_veterinaria_sql
 
 ---
 
